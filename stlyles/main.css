@@ -1,0 +1,14 @@
+@import "basic.css";
+
+.main_photo {
+opacity: 50%;
+}
+
+
+.header_menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
