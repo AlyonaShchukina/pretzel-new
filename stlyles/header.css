@@ -1,0 +1,22 @@
+header {
+    background-color: #fce181;
+    height: 15vh;
+}
+
+.header_menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 7%;
+}
+
+.main {
+    width: 70%;
+}
+
+.menu {
+    display: flex;
+}

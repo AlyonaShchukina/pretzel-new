@@ -1,14 +1,25 @@
 @import "basic.css";
+@import "header.css";
 
-.main_photo {
-opacity: 50%;
+.main_screen_img1 {
+    opacity: 30%;
+    width: 100%;
 }
 
-
-.header_menu {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+.main_screen {
+    background-image: url(/pretzel-new/photo/img1.jpg);
 }
 
+.ms_text1 {
+    color: white;
+    margin: 0;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.ms_text2 {
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+}
 

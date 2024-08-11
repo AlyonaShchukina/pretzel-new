@@ -1,0 +1,35 @@
+<svg width="862" height="852" viewBox="0 0 862 852" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="862" height="852" fill="none"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="862" height="852" fill="none"/>
+<ellipse cx="434.5" cy="466" rx="379.5" ry="367" fill="#1E1E1E"/>
+<path d="M116.923 18L322.798 166.74L142.798 270.663L116.923 18Z" fill="#1E1E1E"/>
+<path d="M135.282 50L283.782 168.645L163.782 237.928L135.282 50Z" fill="#EBA5A5"/>
+<path d="M135.282 50L283.782 168.645L163.782 237.928L135.282 50Z" fill="#EBA5A5"/>
+<path d="M135.282 50L283.782 168.645L163.782 237.928L135.282 50Z" fill="#EBA5A5"/>
+<path d="M745.423 18L719.548 270.663L539.548 166.74L745.423 18Z" fill="#1E1E1E"/>
+<circle cx="435" cy="466" r="130" fill="white" fill-opacity="0.82"/>
+<path d="M495.622 428L435 533L374.378 428H495.622Z" fill="#EBA5A5" stroke="black" stroke-width="5"/>
+<path d="M727.282 50L698.782 237.928L578.782 168.645L727.282 50Z" fill="#EBA5A5"/>
+<path d="M727.282 50L698.782 237.928L578.782 168.645L727.282 50Z" fill="#EBA5A5"/>
+<path d="M727.282 50L698.782 237.928L578.782 168.645L727.282 50Z" fill="#EBA5A5"/>
+<circle cx="284" cy="352" r="82.5" fill="#1E1E1E" stroke="url(#paint0_linear_0_1)" stroke-width="15"/>
+<circle cx="588" cy="352" r="82.5" fill="#1E1E1E" stroke="url(#paint1_linear_0_1)" stroke-width="15"/>
+<line x1="434.5" y1="528" x2="434.5" y2="426" stroke="black"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="284" y1="262" x2="284" y2="442" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A9D039"/>
+<stop offset="0.5" stop-color="#ECCA54"/>
+<stop offset="1" stop-color="#DAFA81"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="588" y1="262" x2="588" y2="442" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A9D039"/>
+<stop offset="0.5" stop-color="#ECCA54"/>
+<stop offset="1" stop-color="#DAFA81"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="862" height="852" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,3 +1,13 @@
+* {
+    font-family: Nunito;
+}
+
+body {
+    margin: 0;
+    background-color: #edeae5;
+}
+
+
 .container {
     max-width: 1200px;
     width: 90%;
@@ -7,4 +17,17 @@
 
 li {
     list-style-type: none;
+    
 }
+
+
+a {
+    color: #026670;
+    text-decoration: none;
+}
+
+a:hover {
+   color: #9FEDD7;
+}
+
+
