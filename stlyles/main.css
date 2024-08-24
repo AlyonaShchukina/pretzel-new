@@ -1,5 +1,6 @@
 @import "basic.css";
 @import "header.css";
+@import "footer.css";
 
 /* MAIN SCREEN */
 
@@ -15,17 +16,16 @@
 .ms_text1 {
     color: white;
     margin: 0;
-    font-size: clamp(30px, 3vw, 70px);
+    font-size: clamp(30px, 4vw, 70px);
     font-weight: 700;
     margin-top: 50px;
-    margin-bottom: -30px;
-
 }
 
 .ms_text2 {
     color: white;
-    font-size: 40px;
+    font-size: clamp(20px, 3vw, 50px);
     font-weight: 500;
+    margin-top: 20px;
   
 }
 
@@ -35,6 +35,8 @@
    color: white;
    padding: 15px;
    width: 10%;
+   font-size: clamp(14px, 1vw, 20px);
+   margin: 20px 0 0 -5px;
 }
 
 /* SECOND BLOCK */

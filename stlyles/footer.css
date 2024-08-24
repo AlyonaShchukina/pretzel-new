@@ -1,0 +1,14 @@
+footer {
+    background-color: #026670;
+    height: 100px;
+}
+
+.footer_div {
+    display: flex;
+}
+
+.footer_text{
+    color: white;
+    font-size: clamp(14px, 2vw, 40px);
+    text-align: center;
+}

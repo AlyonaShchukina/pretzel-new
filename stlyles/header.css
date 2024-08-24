@@ -32,8 +32,20 @@ header {
     display: none;
 }
 @media screen and (max-width: 768px) {
+    .header_navigation {
+    width: 15%;
+    }
+
     .burger {
         display: block;
+        width: 100%;
+        padding: 0;
+        border-style: none;
+        background-color: #fce181;
+        border-radius: 100px;
+    }
+    .burger_logo1 {
+        width: 100%;
     }
     .header_menu {
         flex-direction: column;
